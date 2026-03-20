@@ -20,7 +20,7 @@ const LeftSidebar = () => {
           <Link href={ROUTES.SIGN_IN}>
             <Image
               src="/icons/account.svg"
-              alt="Account"
+              alt="Sign in"
               width={20}
               height={20}
               className="invert-colors lg:hidden"
@@ -36,7 +36,7 @@ const LeftSidebar = () => {
           <Link href={ROUTES.SIGN_UP}>
             <Image
               src="/icons/sign-up.svg"
-              alt="Account"
+              alt="Sign up"
               width={20}
               height={20}
               className="invert-colors lg:hidden"
